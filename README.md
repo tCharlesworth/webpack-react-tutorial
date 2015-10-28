@@ -2,7 +2,8 @@
 A tutorial repository for learning how to setup webpack for a react project with the babel loader
 How to setup your first React project with webpack and babel-loader
 
-This tutorial expects a simple understanding of Node and NPM. 
+This tutorial expects a simple understanding of Node and NPM. Please Note that the files in the master
+branch contain a working solution to this project.
 
 First thing you need to do is create a folder to hold all the project files. Once you have a folder created
 we are going to do some basic folder structuring. Because we are using webpack we are going to put all of
